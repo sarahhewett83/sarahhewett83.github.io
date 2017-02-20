@@ -72,6 +72,10 @@ h1 {
     font-weight: 700;
 }
 
+h3 {
+    margin-bottom: 40px;
+}
+
 .details {
     max-width: 800px;
     padding: 50px 30px;
