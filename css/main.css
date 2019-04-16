@@ -80,7 +80,6 @@ h3 {
 .details {
     max-width: 800px;
     padding: 50px 30px;
-    text-align: center;
     margin: 0 auto;
 }
 
@@ -120,7 +119,7 @@ a, a:visited {
     }
 
     .details-inner {
-        padding: 40px 50px 60px;
+        padding: 40px 60px 60px;
         box-shadow: 0 0 40px rgba(0,0,0,0.15);
         background-color: #ffffff;
     }
