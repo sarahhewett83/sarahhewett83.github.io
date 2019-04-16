@@ -7,7 +7,8 @@ html {
 }
 
 body {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    background-colour: #f5f5f5;
 }
 
 ::-moz-selection {
@@ -121,7 +122,8 @@ a, a:visited {
 
     .details-inner {
         padding: 40px 50px 60px;
-        box-shadow: 0 0 40px rgba(0,0,0,0.15)
+        box-shadow: 0 0 40px rgba(0,0,0,0.15);
+        background-color: #ffffff;
     }
 }
 
