@@ -121,7 +121,7 @@ a, a:visited {
 
     .details-inner {
         padding: 40px 50px 60px;
-        border: 2px solid #dddddd;
+        box-shadow: 0 0 40px rgba(0,0,0,0.15)
     }
 }
 
